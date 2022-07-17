@@ -1,0 +1,12 @@
+{
+	"name": "terminal",
+	"stylesheets": [
+		"terminal.css"
+	],
+	"scripts": [
+		"GMEditSplitterDirection.js",
+		"SplitterExt.js",
+		"GMEdit_splitter_ext.js",
+		"terminal.js"
+	]
+}
